@@ -46,8 +46,8 @@ en: &DEFAULT_EN
     end: ""
     
   services:
-    title: "Services"
-    text: "Lorem ipsum"
+    title: "Research"
+    text: 
     section: services
     list:
       - title: "E-Commerce"
@@ -61,9 +61,9 @@ en: &DEFAULT_EN
         icon: fab fa-markdown
 
   about:
-    title: "About Us"
-    text: "our story"
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
+    title: "Publications"
+    text: 
+    body: 
     section: about
 
   footer:
