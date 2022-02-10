@@ -16,7 +16,7 @@ en: &DEFAULT_EN
 
   timeline:
     title: "Timeline"
-    text: "academic"
+    text: " "
     section: timeline
     # left is the default
     #start_align: "left"
