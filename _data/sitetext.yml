@@ -43,7 +43,7 @@ en: &DEFAULT_EN
         alt:
         # you can enforce the alignment
         align: right
-    end: "[CV](https://www.dropbox.com/s/oa53vt01s7h8tpz/CV.pdf?dl=0)"
+    end: [CV](https://www.dropbox.com/s/oa53vt01s7h8tpz/CV.pdf?dl=0)
     
   services:
     title: "Research"
