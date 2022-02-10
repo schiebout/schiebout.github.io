@@ -13,8 +13,6 @@ en: &DEFAULT_EN
   header:
     title: Courtney T. Schiebout
     text: It's Nice To Meet You
-    button: Tell Me More
-    buttonlink: "#services"
 
   timeline:
     title: "Timeline"
