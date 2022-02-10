@@ -11,8 +11,8 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Courtney T. Schiebout
-    text: It's Nice To Meet You
+    title: 
+    text: 
 
   timeline:
     title: "Timeline"
@@ -22,28 +22,28 @@ en: &DEFAULT_EN
     #start_align: "left"
     events:
       - title: "University of Missouri - Columbia"
-        year: "2009-2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+        year: "2014-2017"
+        desc: "Bachelor of Science in Biological Sciences <br> Summa Cum Laude"
         image: assets/img/timeline/1.jpg
         alt:
-      - title: "An Agency is Born"
-        year: "March 2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+      - title: "Saint Louis University"
+        year: "2017-2018"
+        desc: "Master of Science in Bioinformatics and Computational Biology <br> Summa Cum Laude"
         image: assets/img/timeline/2.jpg
         alt:
-      - title: "Jekyll Theme is created"
+      - title: "NASA Glenn Research Center"
         year: "2019"
-        desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
+        desc: "Biomimicry Intern <br> Glenn Talks Live Top 5 Speaker"
         image: assets/img/timeline/3.jpg
         alt: image alt text
-      - title: "Title"
-        year: "2009-2011"
-        desc: "Your description here, **Markdown** is fully supported."
+      - title: "Dartmouth College"
+        year: "2019-present"
+        desc: "Doctor of Philosophy Candidate in Quantitative Biomedical Sciences <br> Burroughs-Wellcome Fellow <br> Admissions Committee Student Representative"
         image: assets/img/timeline/4.jpg
         alt:
         # you can enforce the alignment
         align: right
-    end: "Be Part <br> of Our <br> Story!"
+    end: ""
     
   services:
     title: "Services"
