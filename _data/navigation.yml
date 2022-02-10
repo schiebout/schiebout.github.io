@@ -13,9 +13,9 @@ en: &DEFAULT_EN
   nav:
     - title: "Timeline"
       section: timeline
-    - title: "Services"
+    - title: "Research"
       section: services
-    - title: "About"
+    - title: "Publications"
       section: about
 en-US:
   <<: *DEFAULT_EN
