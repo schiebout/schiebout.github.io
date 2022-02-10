@@ -15,7 +15,7 @@ en: &DEFAULT_EN
     text: 
 
   timeline:
-    title: "Timeline"
+    title: 
     text: 
     section: timeline
     # left is the default
