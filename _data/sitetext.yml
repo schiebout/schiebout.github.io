@@ -52,13 +52,13 @@ en: &DEFAULT_EN
     list:
       - title: "scRNA-seq"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fal fa-shopping-cart #find more at https://fontawesome.com/icons
+        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
       - title: "Responsive Design"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fal fa-laptop
+        icon: fab fa-laptop
       - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
         desc: "Your description here, full **Markdown** support"
-        icon: fal fa-markdown
+        icon: fab fa-markdown
 
   about:
     title: "Publications"
@@ -70,11 +70,11 @@ en: &DEFAULT_EN
     legal: "Privacy Policy"
     social:
       - url: https://twitter.com/ctschiebout
-        icon: "fal fa-twitter"
+        icon: "fab fa-twitter"
       - url: https://www.linkedin.com/in/courtney-schiebout-8b26a0146/
-        icon: "fal fa-linkedin-in"
+        icon: "fab fa-linkedin-in"
       - url: https://github.com/schiebout
-        icon: "fal fa-github"
+        icon: "fab fa-github"
 
 en-US:
   <<: *DEFAULT_EN
