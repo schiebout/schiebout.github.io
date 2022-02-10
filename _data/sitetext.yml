@@ -66,11 +66,6 @@ en: &DEFAULT_EN
     body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
     section: about
 
-  contact:
-    title: "Contact Me"
-    text: "courtney.t.schiebout[at]gmail[dot]com"
-    section: contact
-
   footer:
     legal: "Privacy Policy"
     social:
