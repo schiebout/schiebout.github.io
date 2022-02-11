@@ -67,7 +67,6 @@ en: &DEFAULT_EN
     section: about
 
   footer:
-    legal: "Privacy Policy"
     social:
       - url: https://twitter.com/ctschiebout
         icon: "fab fa-twitter"
