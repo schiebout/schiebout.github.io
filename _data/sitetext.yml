@@ -55,7 +55,7 @@ en: &DEFAULT_EN
         icon: fas fa-dna #find more at https://fontawesome.com/icons
       - title: "T cell Immunology"
         desc: "My Masters and PhD work specifically focus on characterizing T cells, in both infectious disease and cancer models."
-        icon: fas fa-disease
+        icon: fas fa-virus-covid
       - title: "Methods Development"
         desc: "My PhD work has primarily involved methods development for single-cell omics data. My software, CAMML, is available on CRAN and at my github link at the bottom of the page."
         icon: fas fa-laptop
