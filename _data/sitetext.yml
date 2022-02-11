@@ -47,7 +47,7 @@ en: &DEFAULT_EN
     
   services:
     title: "Research"
-    text: 
+    text: "<br>"
     section: services
     list:
       - title: "Single-Cell RNA-seq"
