@@ -38,7 +38,7 @@ en: &DEFAULT_EN
         alt: image alt text
       - title: "Dartmouth College"
         year: "2019-2023"
-        desc: "Doctor of Philosophy Candidate in Quantitative Biomedical Sciences <br> Burroughs-Wellcome Fellow <br> Admissions Committee Student Representative"
+        desc: "Doctor of Philosophy in Quantitative Biomedical Sciences <br> Burroughs-Wellcome Fellow <br> Admissions Committee Student Representative"
         image: assets/img/timeline/4.jpg
         alt:
         # you can enforce the alignment
@@ -51,13 +51,13 @@ en: &DEFAULT_EN
     section: services
     list:
       - title: "Single-Cell RNA-seq"
-        desc: "My work focuses on analysis and methods development of single-cell transcriptomics, a very sparse data type, specifically in the immune compartment of the tumor microenvironment."
+        desc: "My work focused on analysis and methods development of single-cell transcriptomics, a very sparse data type, specifically in the immune compartment of the tumor microenvironment."
         icon: fas fa-dna #find more at https://fontawesome.com/icons
       - title: "Statistics"
-        desc: "My research and teaching have focused on the adaptation and application of statistical methods for unique, and often complex, data types."
+        desc: "My research and teaching focused on the adaptation and application of statistical methods for unique, and often complex, data types."
         icon: fas fa-chart-line
       - title: "Software Development"
-        desc: "My PhD work has primarily involved methods development for biomedical data. My software, CAMML, is available on CRAN and at my github link at the bottom of the page."
+        desc: "My PhD work primarily involved methods development for biomedical data. My software, CAMML, is available on CRAN and at my github link at the bottom of the page."
         icon: fas fa-laptop
 
   about:
