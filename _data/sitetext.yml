@@ -37,7 +37,7 @@ en: &DEFAULT_EN
         image: assets/img/timeline/3.jpg
         alt: image alt text
       - title: "Dartmouth College"
-        year: "2019-present"
+        year: "2019-2023"
         desc: "Doctor of Philosophy Candidate in Quantitative Biomedical Sciences <br> Burroughs-Wellcome Fellow <br> Admissions Committee Student Representative"
         image: assets/img/timeline/4.jpg
         alt:
@@ -51,13 +51,13 @@ en: &DEFAULT_EN
     section: services
     list:
       - title: "Single-Cell RNA-seq"
-        desc: "My work focuses on analysis and methods development of single-cell transcriptomics, specifically in the immune compartment of the tumor microenvironment."
+        desc: "My work focuses on analysis and methods development of single-cell transcriptomics, a very sparse data type, specifically in the immune compartment of the tumor microenvironment."
         icon: fas fa-dna #find more at https://fontawesome.com/icons
       - title: "T cell Immunology"
         desc: "My Masters and PhD work specifically focus on characterizing T cells, in both infectious disease and cancer models."
         icon: fas fa-vial
       - title: "Methods Development"
-        desc: "My PhD work has primarily involved methods development for single-cell omics data. My software, CAMML, is available on CRAN and at my github link at the bottom of the page."
+        desc: "My PhD work has primarily involved statistical methods development for biomedical data. My software, CAMML, is available on CRAN and at my github link at the bottom of the page."
         icon: fas fa-laptop
 
   about:
